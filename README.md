@@ -5,7 +5,7 @@ CODE
  <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
+    
     <title>Student Record Form</title>
    
     <script>
